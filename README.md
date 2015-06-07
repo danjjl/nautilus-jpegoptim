@@ -2,6 +2,8 @@
 
 Nautilus script to compress photos (jpg) using `jpegoptim`
 
+![screenshot](screenshot.png)
+
 Dependencies:
 
  - jpegoptim
